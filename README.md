@@ -37,7 +37,7 @@ SO THAT I can create a strong password that provides greater security.
 
 ## **Mock-Up**
 ```bash
-(mock-up img coming soon ![]())
+![](https://user-images.githubusercontent.com/103869234/229928422-9e75f882-b55a-4307-9909-8538a76f3424.png)
 ```
 
 
