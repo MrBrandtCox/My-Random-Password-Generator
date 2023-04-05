@@ -41,9 +41,9 @@ SO THAT I can create a strong password that provides greater security.
 ```
 
 
-## **Live URL**
+## **Deployed Application**
 ```bash
-(input Live URL)
+(https://mrbrandtcox.github.io/My-Random-Password-Generator/)
 ```
 
 
