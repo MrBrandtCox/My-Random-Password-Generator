@@ -36,15 +36,15 @@ SO THAT I can create a strong password that provides greater security.
 
 
 ## **Mock-Up**
-```bash
-![password-gen-mock-up](./imgs/Screenshot%202023-04-04%20at%203.37.00%20PM.png)
-```
+
+![password-gen-mock-up](./imgs/Screenshot2023-04-04at3.37.00PM.png)
+
 
 
 ## **Deployed Application**
-```bash
+
 (https://mrbrandtcox.github.io/My-Random-Password-Generator/)
-```
+
 
 
 ## **License** 
