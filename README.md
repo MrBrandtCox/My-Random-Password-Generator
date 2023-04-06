@@ -37,7 +37,7 @@ SO THAT I can create a strong password that provides greater security.
 
 ## **Mock-Up**
 ```bash
-![password-gen-mock-up](./imgs/passwordgenmockup.png)
+![password-gen-mock-up](./imgs/Screenshot%202023-04-04%20at%203.37.00%20PM.png)
 ```
 
 
